@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyProjects\\OZONE\\HomeWork2\\WeatherEventGenerator\\WeatherEventGenerator.csproj": {}
+    "D:\\MyProjects\\OZONETECH\\HomeWork\\ozone_hw2\\HomeWork2\\WeatherEventGenerator\\WeatherEventGenerator.csproj": {}
   },
   "projects": {
-    "D:\\MyProjects\\OZONE\\HomeWork2\\WeatherEventGenerator\\WeatherEventGenerator.csproj": {
+    "D:\\MyProjects\\OZONETECH\\HomeWork\\ozone_hw2\\HomeWork2\\WeatherEventGenerator\\WeatherEventGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyProjects\\OZONE\\HomeWork2\\WeatherEventGenerator\\WeatherEventGenerator.csproj",
+        "projectUniqueName": "D:\\MyProjects\\OZONETECH\\HomeWork\\ozone_hw2\\HomeWork2\\WeatherEventGenerator\\WeatherEventGenerator.csproj",
         "projectName": "WeatherEventGenerator",
-        "projectPath": "D:\\MyProjects\\OZONE\\HomeWork2\\WeatherEventGenerator\\WeatherEventGenerator.csproj",
+        "projectPath": "D:\\MyProjects\\OZONETECH\\HomeWork\\ozone_hw2\\HomeWork2\\WeatherEventGenerator\\WeatherEventGenerator.csproj",
         "packagesPath": "C:\\Users\\ANASTASIA\\.nuget\\packages\\",
-        "outputPath": "D:\\MyProjects\\OZONE\\HomeWork2\\WeatherEventGenerator\\obj\\",
+        "outputPath": "D:\\MyProjects\\OZONETECH\\HomeWork\\ozone_hw2\\HomeWork2\\WeatherEventGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
