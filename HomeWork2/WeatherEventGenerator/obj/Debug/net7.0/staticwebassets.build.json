@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EXjOWYIF9wEH3a55uLzCFtcT539LhY4kKGQl2oVxZHU=",
+  "Source": "WeatherEventGenerator",
+  "BasePath": "_content/WeatherEventGenerator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
